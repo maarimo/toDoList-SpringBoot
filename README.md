@@ -1,4 +1,4 @@
-# TodoApp - Gerenciador de Tarefas
+# Gerenciador de Tarefas
 
 
 ## Sobre o projeto
