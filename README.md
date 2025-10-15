@@ -33,11 +33,6 @@ Este projeto é voltado para fins de aprendizado e demonstração de habilidades
 
 ---
 
-## Estrutura do projeto
-
-
----
-
 ## Endpoints disponíveis
 
 | Método | Endpoint           | Descrição                     |
